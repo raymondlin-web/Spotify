@@ -1,0 +1,120 @@
+.fill {
+  display: flex;
+  justify-content: center;
+}
+.box1 p {
+  font-family: 'Alatsi';
+  color: #F33FF2;
+}
+.box1 {
+  background-color: #FFF842;
+  width: 350px;
+  length: 1000px;
+  border: 3px solid white;
+  display: flex;
+  flex-direction: column;
+}
+.text1 {
+  font-size: 30px;
+}
+.pic1 {
+  background-color: #2934FF;
+  width: 110px;
+  height: 110px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.textside {
+  font-size: 30px;
+  text-align: right;
+}
+.groupic {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.text2 {
+  font-size: 18px;
+  display: flex;
+  align-items: flex-end;
+}
+.logo {
+  display: flex;
+  align-items: center;
+}
+.text3, .text4 {
+  font-family: 'Alatsi';
+  color: #4FF0FC;
+}
+.box2 {
+  background-color: #2E4BE3;
+  width: 350px;
+  length: 1000px;
+  border: 3px solid white;
+  display: flex;
+  flex-direction: column;
+}
+.pic2 {
+  display: flex;
+  justify-content: flex-end;
+}
+.shark {
+  background-color: #F33FF2;
+  width: 150px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text3 {
+  font-size: 30px;
+}
+.textbullet {
+  text-align: center;
+  font-family: 'Alatsi';
+  color: #FF3947;
+}
+.text4 {
+  font-size: 18px
+}
+.logo2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.box3 p {
+  font-family: 'Alatsi';
+}
+.box3 {
+  background-color: #0E700F;
+  width: 350px;
+  length: 1000px;
+  border: 3px solid white;
+  display: flex;
+  flex-direction: column;
+}
+.text5 {
+  color: #FFE3E6;
+  font-size: 40px
+}
+.text6 {
+  color: #E9DD28;
+  font-size: 15px
+}
+.pic3 {
+  display: flex;
+  justify-content: flex-end;
+}
+.clam {
+  background-color: #E9C328;
+  width: 145px;
+  height: 145px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.example {
+  display: flex;
+  justify-content: center;
+}
